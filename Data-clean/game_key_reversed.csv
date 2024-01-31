@@ -1,0 +1,802 @@
+,Year,Week,Opponent,Team,day,Game Date,Time,Thursday Game
+3722,2014,1,Seattle Seahawks,Green Bay Packers,Thu,9/4,8:42PM,1
+3723,2014,1,St. Louis Rams,Minnesota Vikings,Sun,9/7,1:00PM,0
+3724,2014,1,Chicago Bears,Buffalo Bills,Sun,9/7,1:00PM,0
+3725,2014,1,Baltimore Ravens,Cincinnati Bengals,Sun,9/7,1:02PM,0
+3726,2014,1,Philadelphia Eagles,Jacksonville Jaguars,Sun,9/7,1:02PM,0
+3727,2014,1,Pittsburgh Steelers,Cleveland Browns,Sun,9/7,1:02PM,0
+3728,2014,1,New York Jets,Oakland Raiders,Sun,9/7,1:02PM,0
+3729,2014,1,Kansas City Chiefs,Tennessee Titans,Sun,9/7,1:02PM,0
+3730,2014,1,Atlanta Falcons,New Orleans Saints,Sun,9/7,1:03PM,0
+3731,2014,1,Miami Dolphins,New England Patriots,Sun,9/7,1:03PM,0
+3732,2014,1,Houston Texans,Washington Redskins,Sun,9/7,1:03PM,0
+3733,2014,1,Tampa Bay Buccaneers,Carolina Panthers,Sun,9/7,4:25PM,0
+3734,2014,1,Dallas Cowboys,San Francisco 49ers,Sun,9/7,4:25PM,0
+3735,2014,1,Denver Broncos,Indianapolis Colts,Sun,9/7,8:30PM,0
+3736,2014,1,Detroit Lions,New York Giants,Mon,9/8,7:11PM,0
+3737,2014,1,Arizona Cardinals,San Diego Chargers,Mon,9/8,9:20PM,0
+3738,2014,2,Baltimore Ravens,Pittsburgh Steelers,Thu,9/11,8:28PM,1
+3739,2014,2,Buffalo Bills,Miami Dolphins,Sun,9/14,1:02PM,0
+3740,2014,2,Tennessee Titans,Dallas Cowboys,Sun,9/14,1:03PM,0
+3741,2014,2,Cleveland Browns,New Orleans Saints,Sun,9/14,1:03PM,0
+3742,2014,2,New York Giants,Arizona Cardinals,Sun,9/14,1:04PM,0
+3743,2014,2,Carolina Panthers,Detroit Lions,Sun,9/14,1:04PM,0
+3744,2014,2,Cincinnati Bengals,Atlanta Falcons,Sun,9/14,1:05PM,0
+3745,2014,2,Washington Redskins,Jacksonville Jaguars,Sun,9/14,1:05PM,0
+3746,2014,2,Minnesota Vikings,New England Patriots,Sun,9/14,1:05PM,0
+3747,2014,2,San Diego Chargers,Seattle Seahawks,Sun,9/14,4:05PM,0
+3748,2014,2,Tampa Bay Buccaneers,St. Louis Rams,Sun,9/14,4:05PM,0
+3749,2014,2,Green Bay Packers,New York Jets,Sun,9/14,4:25PM,0
+3750,2014,2,Denver Broncos,Kansas City Chiefs,Sun,9/14,4:25PM,0
+3751,2014,2,Oakland Raiders,Houston Texans,Sun,9/14,4:25PM,0
+3752,2014,2,San Francisco 49ers,Chicago Bears,Sun,9/14,8:31PM,0
+3753,2014,2,Indianapolis Colts,Philadelphia Eagles,Mon,9/15,8:31PM,0
+3754,2014,3,Atlanta Falcons,Tampa Bay Buccaneers,Thu,9/18,8:26PM,1
+3755,2014,3,St. Louis Rams,Dallas Cowboys,Sun,9/21,1:00PM,0
+3756,2014,3,Cleveland Browns,Baltimore Ravens,Sun,9/21,1:02PM,0
+3757,2014,3,New York Giants,Houston Texans,Sun,9/21,1:02PM,0
+3758,2014,3,Jacksonville Jaguars,Indianapolis Colts,Sun,9/21,1:02PM,0
+3759,2014,3,Buffalo Bills,San Diego Chargers,Sun,9/21,1:02PM,0
+3760,2014,3,Detroit Lions,Green Bay Packers,Sun,9/21,1:02PM,0
+3761,2014,3,Cincinnati Bengals,Tennessee Titans,Sun,9/21,1:02PM,0
+3762,2014,3,New England Patriots,Oakland Raiders,Sun,9/21,1:02PM,0
+3763,2014,3,Philadelphia Eagles,Washington Redskins,Sun,9/21,1:02PM,0
+3764,2014,3,New Orleans Saints,Minnesota Vikings,Sun,9/21,1:03PM,0
+3765,2014,3,Arizona Cardinals,San Francisco 49ers,Sun,9/21,4:05PM,0
+3766,2014,3,Miami Dolphins,Kansas City Chiefs,Sun,9/21,4:25PM,0
+3767,2014,3,Seattle Seahawks,Denver Broncos,Sun,9/21,4:25PM,0
+3768,2014,3,Carolina Panthers,Pittsburgh Steelers,Sun,9/21,8:31PM,0
+3769,2014,3,New York Jets,Chicago Bears,Mon,9/22,8:30PM,0
+3770,2014,4,Washington Redskins,New York Giants,Thu,9/25,8:26PM,1
+3771,2014,4,Chicago Bears,Green Bay Packers,Sun,9/28,1:02PM,0
+3772,2014,4,Houston Texans,Buffalo Bills,Sun,9/28,1:02PM,0
+3773,2014,4,New York Jets,Detroit Lions,Sun,9/28,1:02PM,0
+3774,2014,4,Baltimore Ravens,Carolina Panthers,Sun,9/28,1:02PM,0
+3775,2014,4,Indianapolis Colts,Tennessee Titans,Sun,9/28,1:03PM,0
+3776,2014,4,Pittsburgh Steelers,Tampa Bay Buccaneers,Sun,9/28,1:03PM,0
+3777,2014,4,Oakland Raiders,Miami Dolphins,Sun,9/28,1:06PM,0
+3778,2014,4,San Diego Chargers,Jacksonville Jaguars,Sun,9/28,4:05PM,0
+3779,2014,4,San Francisco 49ers,Philadelphia Eagles,Sun,9/28,4:25PM,0
+3780,2014,4,Minnesota Vikings,Atlanta Falcons,Sun,9/28,4:25PM,0
+3781,2014,4,Dallas Cowboys,New Orleans Saints,Sun,9/28,8:31PM,0
+3782,2014,4,Kansas City Chiefs,New England Patriots,Mon,9/29,8:31PM,0
+3783,2014,5,Green Bay Packers,Minnesota Vikings,Thu,10/2,8:26PM,1
+3784,2014,5,Tennessee Titans,Cleveland Browns,Sun,10/5,1:02PM,0
+3785,2014,5,Jacksonville Jaguars,Pittsburgh Steelers,Sun,10/5,1:02PM,0
+3786,2014,5,Philadelphia Eagles,St. Louis Rams,Sun,10/5,1:02PM,0
+3787,2014,5,New Orleans Saints,Tampa Bay Buccaneers,Sun,10/5,1:03PM,0
+3788,2014,5,New York Giants,Atlanta Falcons,Sun,10/5,1:03PM,0
+3789,2014,5,Carolina Panthers,Chicago Bears,Sun,10/5,1:03PM,0
+3790,2014,5,Dallas Cowboys,Houston Texans,Sun,10/5,1:03PM,0
+3791,2014,5,Indianapolis Colts,Baltimore Ravens,Sun,10/5,1:03PM,0
+3792,2014,5,Detroit Lions,Buffalo Bills,Sun,10/5,1:03PM,0
+3793,2014,5,Denver Broncos,Arizona Cardinals,Sun,10/5,4:05PM,0
+3794,2014,5,San Francisco 49ers,Kansas City Chiefs,Sun,10/5,4:25PM,0
+3795,2014,5,San Diego Chargers,New York Jets,Sun,10/5,4:25PM,0
+3796,2014,5,New England Patriots,Cincinnati Bengals,Sun,10/5,8:43PM,0
+3797,2014,5,Washington Redskins,Seattle Seahawks,Mon,10/6,8:30PM,0
+3798,2014,6,Houston Texans,Indianapolis Colts,Thu,10/9,8:26PM,1
+3799,2014,6,New York Jets,Denver Broncos,Sun,10/12,1:02PM,0
+3800,2014,6,Cleveland Browns,Pittsburgh Steelers,Sun,10/12,1:02PM,0
+3801,2014,6,Buffalo Bills,New England Patriots,Sun,10/12,1:02PM,0
+3802,2014,6,Tennessee Titans,Jacksonville Jaguars,Sun,10/12,1:02PM,0
+3803,2014,6,Miami Dolphins,Green Bay Packers,Sun,10/12,1:02PM,0
+3804,2014,6,Tampa Bay Buccaneers,Baltimore Ravens,Sun,10/12,1:02PM,0
+3805,2014,6,Minnesota Vikings,Detroit Lions,Sun,10/12,1:02PM,0
+3806,2014,6,Cincinnati Bengals,Carolina Panthers,Sun,10/12,1:03PM,0
+3807,2014,6,Oakland Raiders,San Diego Chargers,Sun,10/12,4:05PM,0
+3808,2014,6,Arizona Cardinals,Washington Redskins,Sun,10/12,4:25PM,0
+3809,2014,6,Atlanta Falcons,Chicago Bears,Sun,10/12,4:25PM,0
+3810,2014,6,Seattle Seahawks,Dallas Cowboys,Sun,10/12,4:26PM,0
+3811,2014,6,Philadelphia Eagles,New York Giants,Sun,10/12,8:41PM,0
+3812,2014,6,St. Louis Rams,San Francisco 49ers,Mon,10/13,8:30PM,0
+3813,2014,7,New England Patriots,New York Jets,Thu,10/16,8:25PM,1
+3814,2014,7,St. Louis Rams,Seattle Seahawks,Sun,10/19,1:00PM,0
+3815,2014,7,Chicago Bears,Miami Dolphins,Sun,10/19,1:00PM,0
+3816,2014,7,Indianapolis Colts,Cincinnati Bengals,Sun,10/19,1:02PM,0
+3817,2014,7,Jacksonville Jaguars,Cleveland Browns,Sun,10/19,1:02PM,0
+3818,2014,7,Detroit Lions,New Orleans Saints,Sun,10/19,1:02PM,0
+3819,2014,7,Buffalo Bills,Minnesota Vikings,Sun,10/19,1:02PM,0
+3820,2014,7,Washington Redskins,Tennessee Titans,Sun,10/19,1:02PM,0
+3821,2014,7,Baltimore Ravens,Atlanta Falcons,Sun,10/19,1:02PM,0
+3822,2014,7,Green Bay Packers,Carolina Panthers,Sun,10/19,1:02PM,0
+3823,2014,7,San Diego Chargers,Kansas City Chiefs,Sun,10/19,4:05PM,0
+3824,2014,7,Oakland Raiders,Arizona Cardinals,Sun,10/19,4:25PM,0
+3825,2014,7,Dallas Cowboys,New York Giants,Sun,10/19,4:25PM,0
+3826,2014,7,Denver Broncos,San Francisco 49ers,Sun,10/19,8:30PM,0
+3827,2014,7,Pittsburgh Steelers,Houston Texans,Mon,10/20,8:30PM,0
+3828,2014,8,Denver Broncos,San Diego Chargers,Thu,10/23,8:26PM,1
+3829,2014,8,Atlanta Falcons,Detroit Lions,Sun,10/26,9:37AM,0
+3830,2014,8,Cincinnati Bengals,Baltimore Ravens,Sun,10/26,1:02PM,0
+3831,2014,8,New York Jets,Buffalo Bills,Sun,10/26,1:02PM,0
+3832,2014,8,Jacksonville Jaguars,Miami Dolphins,Sun,10/26,1:02PM,0
+3833,2014,8,New England Patriots,Chicago Bears,Sun,10/26,1:02PM,0
+3834,2014,8,Tampa Bay Buccaneers,Minnesota Vikings,Sun,10/26,1:03PM,0
+3835,2014,8,Tennessee Titans,Houston Texans,Sun,10/26,1:03PM,0
+3836,2014,8,Kansas City Chiefs,St. Louis Rams,Sun,10/26,1:04PM,0
+3837,2014,8,Carolina Panthers,Seattle Seahawks,Sun,10/26,1:04PM,0
+3838,2014,8,Arizona Cardinals,Philadelphia Eagles,Sun,10/26,4:05PM,0
+3839,2014,8,Cleveland Browns,Oakland Raiders,Sun,10/26,4:25PM,0
+3840,2014,8,Pittsburgh Steelers,Indianapolis Colts,Sun,10/26,4:25PM,0
+3841,2014,8,New Orleans Saints,Green Bay Packers,Sun,10/26,8:30PM,0
+3842,2014,8,Dallas Cowboys,Washington Redskins,Mon,10/27,8:30PM,0
+3843,2014,9,Carolina Panthers,New Orleans Saints,Thu,10/30,8:30PM,1
+3844,2014,9,Cleveland Browns,Tampa Bay Buccaneers,Sun,11/2,1:02PM,0
+3845,2014,9,Cincinnati Bengals,Jacksonville Jaguars,Sun,11/2,1:02PM,0
+3846,2014,9,Miami Dolphins,San Diego Chargers,Sun,11/2,1:02PM,0
+3847,2014,9,Kansas City Chiefs,New York Jets,Sun,11/2,1:03PM,0
+3848,2014,9,Minnesota Vikings,Washington Redskins,Sun,11/2,1:03PM,0
+3849,2014,9,Houston Texans,Philadelphia Eagles,Sun,11/2,1:03PM,0
+3850,2014,9,Dallas Cowboys,Arizona Cardinals,Sun,11/2,1:04PM,0
+3851,2014,9,San Francisco 49ers,St. Louis Rams,Sun,11/2,4:05PM,0
+3852,2014,9,New England Patriots,Denver Broncos,Sun,11/2,4:25PM,0
+3853,2014,9,Seattle Seahawks,Oakland Raiders,Sun,11/2,4:26PM,0
+3854,2014,9,Pittsburgh Steelers,Baltimore Ravens,Sun,11/2,8:30PM,0
+3855,2014,9,New York Giants,Indianapolis Colts,Mon,11/3,8:31PM,0
+3856,2014,10,Cincinnati Bengals,Cleveland Browns,Thu,11/6,8:29PM,1
+3857,2014,10,Detroit Lions,Miami Dolphins,Sun,11/9,1:02PM,0
+3858,2014,10,Buffalo Bills,Kansas City Chiefs,Sun,11/9,1:02PM,0
+3859,2014,10,New York Jets,Pittsburgh Steelers,Sun,11/9,1:02PM,0
+3860,2014,10,New Orleans Saints,San Francisco 49ers,Sun,11/9,1:03PM,0
+3861,2014,10,Baltimore Ravens,Tennessee Titans,Sun,11/9,1:03PM,0
+3862,2014,10,Tampa Bay Buccaneers,Atlanta Falcons,Sun,11/9,1:04PM,0
+3863,2014,10,Jacksonville Jaguars,Dallas Cowboys,Sun,11/9,1:06PM,0
+3864,2014,10,Oakland Raiders,Denver Broncos,Sun,11/9,4:05PM,0
+3865,2014,10,Arizona Cardinals,St. Louis Rams,Sun,11/9,4:25PM,0
+3866,2014,10,Seattle Seahawks,New York Giants,Sun,11/9,4:26PM,0
+3867,2014,10,Green Bay Packers,Chicago Bears,Sun,11/9,8:30PM,0
+3868,2014,10,Philadelphia Eagles,Carolina Panthers,Mon,11/10,8:32PM,0
+3869,2014,11,Miami Dolphins,Buffalo Bills,Thu,11/13,8:26PM,1
+3870,2014,11,St. Louis Rams,Denver Broncos,Sun,11/16,1:00PM,0
+3871,2014,11,New Orleans Saints,Cincinnati Bengals,Sun,11/16,1:02PM,0
+3872,2014,11,Chicago Bears,Minnesota Vikings,Sun,11/16,1:02PM,0
+3873,2014,11,New York Giants,San Francisco 49ers,Sun,11/16,1:03PM,0
+3874,2014,11,Carolina Panthers,Atlanta Falcons,Sun,11/16,1:03PM,0
+3875,2014,11,Cleveland Browns,Houston Texans,Sun,11/16,1:03PM,0
+3876,2014,11,Washington Redskins,Tampa Bay Buccaneers,Sun,11/16,1:03PM,0
+3877,2014,11,Kansas City Chiefs,Seattle Seahawks,Sun,11/16,1:04PM,0
+3878,2014,11,San Diego Chargers,Oakland Raiders,Sun,11/16,4:05PM,0
+3879,2014,11,Green Bay Packers,Philadelphia Eagles,Sun,11/16,4:25PM,0
+3880,2014,11,Arizona Cardinals,Detroit Lions,Sun,11/16,4:25PM,0
+3881,2014,11,Indianapolis Colts,New England Patriots,Sun,11/16,8:31PM,0
+3882,2014,11,Tennessee Titans,Pittsburgh Steelers,Mon,11/17,8:30PM,0
+3883,2014,12,Oakland Raiders,Kansas City Chiefs,Thu,11/20,8:26PM,1
+3884,2014,12,Indianapolis Colts,Jacksonville Jaguars,Sun,11/23,1:02PM,0
+3885,2014,12,Philadelphia Eagles,Tennessee Titans,Sun,11/23,1:02PM,0
+3886,2014,12,Houston Texans,Cincinnati Bengals,Sun,11/23,1:02PM,0
+3887,2014,12,Chicago Bears,Tampa Bay Buccaneers,Sun,11/23,1:02PM,0
+3888,2014,12,New England Patriots,Detroit Lions,Sun,11/23,1:02PM,0
+3889,2014,12,Atlanta Falcons,Cleveland Browns,Sun,11/23,1:02PM,0
+3890,2014,12,Minnesota Vikings,Green Bay Packers,Sun,11/23,1:03PM,0
+3891,2014,12,San Diego Chargers,St. Louis Rams,Sun,11/23,4:05PM,0
+3892,2014,12,Seattle Seahawks,Arizona Cardinals,Sun,11/23,4:06PM,0
+3893,2014,12,San Francisco 49ers,Washington Redskins,Sun,11/23,4:25PM,0
+3894,2014,12,Denver Broncos,Miami Dolphins,Sun,11/23,4:25PM,0
+3895,2014,12,New York Giants,Dallas Cowboys,Sun,11/23,8:30PM,0
+3896,2014,12,Buffalo Bills,New York Jets,Mon,11/24,7:05PM,0
+3897,2014,12,New Orleans Saints,Baltimore Ravens,Mon,11/24,8:30PM,0
+3898,2014,13,Detroit Lions,Chicago Bears,Thu,11/27,12:39PM,1
+3899,2014,13,Dallas Cowboys,Philadelphia Eagles,Thu,11/27,4:36PM,1
+3900,2014,13,San Francisco 49ers,Seattle Seahawks,Thu,11/27,8:31PM,1
+3901,2014,13,St. Louis Rams,Oakland Raiders,Sun,11/30,1:00PM,0
+3902,2014,13,Pittsburgh Steelers,New Orleans Saints,Sun,11/30,1:02PM,0
+3903,2014,13,Houston Texans,Tennessee Titans,Sun,11/30,1:02PM,0
+3904,2014,13,Indianapolis Colts,Washington Redskins,Sun,11/30,1:02PM,0
+3905,2014,13,Buffalo Bills,Cleveland Browns,Sun,11/30,1:02PM,0
+3906,2014,13,Tampa Bay Buccaneers,Cincinnati Bengals,Sun,11/30,1:02PM,0
+3907,2014,13,Minnesota Vikings,Carolina Panthers,Sun,11/30,1:02PM,0
+3908,2014,13,Baltimore Ravens,San Diego Chargers,Sun,11/30,1:02PM,0
+3909,2014,13,Jacksonville Jaguars,New York Giants,Sun,11/30,1:03PM,0
+3910,2014,13,Atlanta Falcons,Arizona Cardinals,Sun,11/30,4:05PM,0
+3911,2014,13,Green Bay Packers,New England Patriots,Sun,11/30,4:25PM,0
+3912,2014,13,Kansas City Chiefs,Denver Broncos,Sun,11/30,8:32PM,0
+3913,2014,13,New York Jets,Miami Dolphins,Mon,12/1,8:30PM,0
+3914,2014,14,Chicago Bears,Dallas Cowboys,Thu,12/4,8:26PM,1
+3915,2014,14,Cincinnati Bengals,Pittsburgh Steelers,Sun,12/7,1:02PM,0
+3916,2014,14,Miami Dolphins,Baltimore Ravens,Sun,12/7,1:02PM,0
+3917,2014,14,Detroit Lions,Tampa Bay Buccaneers,Sun,12/7,1:02PM,0
+3918,2014,14,Minnesota Vikings,New York Jets,Sun,12/7,1:02PM,0
+3919,2014,14,Cleveland Browns,Indianapolis Colts,Sun,12/7,1:03PM,0
+3920,2014,14,Washington Redskins,St. Louis Rams,Sun,12/7,1:03PM,0
+3921,2014,14,New Orleans Saints,Carolina Panthers,Sun,12/7,1:03PM,0
+3922,2014,14,Tennessee Titans,New York Giants,Sun,12/7,1:03PM,0
+3923,2014,14,Jacksonville Jaguars,Houston Texans,Sun,12/7,1:03PM,0
+3924,2014,14,Denver Broncos,Buffalo Bills,Sun,12/7,4:05PM,0
+3925,2014,14,Arizona Cardinals,Kansas City Chiefs,Sun,12/7,4:05PM,0
+3926,2014,14,Oakland Raiders,San Francisco 49ers,Sun,12/7,4:25PM,0
+3927,2014,14,Philadelphia Eagles,Seattle Seahawks,Sun,12/7,4:25PM,0
+3928,2014,14,San Diego Chargers,New England Patriots,Sun,12/7,8:30PM,0
+3929,2014,14,Green Bay Packers,Atlanta Falcons,Mon,12/8,8:30PM,0
+3930,2014,15,St. Louis Rams,Arizona Cardinals,Thu,12/11,8:25PM,1
+3931,2014,15,Buffalo Bills,Green Bay Packers,Sun,12/14,1:02PM,0
+3932,2014,15,Baltimore Ravens,Jacksonville Jaguars,Sun,12/14,1:02PM,0
+3933,2014,15,Cleveland Browns,Cincinnati Bengals,Sun,12/14,1:02PM,0
+3934,2014,15,New England Patriots,Miami Dolphins,Sun,12/14,1:02PM,0
+3935,2014,15,Indianapolis Colts,Houston Texans,Sun,12/14,1:02PM,0
+3936,2014,15,New York Giants,Washington Redskins,Sun,12/14,1:02PM,0
+3937,2014,15,Atlanta Falcons,Pittsburgh Steelers,Sun,12/14,1:02PM,0
+3938,2014,15,Kansas City Chiefs,Oakland Raiders,Sun,12/14,1:03PM,0
+3939,2014,15,Carolina Panthers,Tampa Bay Buccaneers,Sun,12/14,1:03PM,0
+3940,2014,15,San Diego Chargers,Denver Broncos,Sun,12/14,4:05PM,0
+3941,2014,15,Tennessee Titans,New York Jets,Sun,12/14,4:05PM,0
+3942,2014,15,Detroit Lions,Minnesota Vikings,Sun,12/14,4:25PM,0
+3943,2014,15,Seattle Seahawks,San Francisco 49ers,Sun,12/14,4:26PM,0
+3944,2014,15,Philadelphia Eagles,Dallas Cowboys,Sun,12/14,8:35PM,0
+3945,2014,15,Chicago Bears,New Orleans Saints,Mon,12/15,8:30PM,0
+3946,2014,16,Jacksonville Jaguars,Tennessee Titans,Thu,12/18,8:26PM,1
+3947,2014,16,Washington Redskins,Philadelphia Eagles,Sat,12/20,4:30PM,0
+3948,2014,16,San Francisco 49ers,San Diego Chargers,Sat,12/20,8:26PM,0
+3949,2014,16,New York Jets,New England Patriots,Sun,12/21,1:02PM,0
+3950,2014,16,Pittsburgh Steelers,Kansas City Chiefs,Sun,12/21,1:02PM,0
+3951,2014,16,Houston Texans,Baltimore Ravens,Sun,12/21,1:02PM,0
+3952,2014,16,New Orleans Saints,Atlanta Falcons,Sun,12/21,1:03PM,0
+3953,2014,16,Chicago Bears,Detroit Lions,Sun,12/21,1:03PM,0
+3954,2014,16,Miami Dolphins,Minnesota Vikings,Sun,12/21,1:03PM,0
+3955,2014,16,Tampa Bay Buccaneers,Green Bay Packers,Sun,12/21,1:03PM,0
+3956,2014,16,Carolina Panthers,Cleveland Browns,Sun,12/21,1:04PM,0
+3957,2014,16,St. Louis Rams,New York Giants,Sun,12/21,4:05PM,0
+3958,2014,16,Oakland Raiders,Buffalo Bills,Sun,12/21,4:25PM,0
+3959,2014,16,Dallas Cowboys,Indianapolis Colts,Sun,12/21,4:26PM,0
+3960,2014,16,Arizona Cardinals,Seattle Seahawks,Sun,12/21,8:30PM,0
+3961,2014,16,Cincinnati Bengals,Denver Broncos,Mon,12/22,8:30PM,0
+3962,2014,17,Minnesota Vikings,Chicago Bears,Sun,12/28,1:02PM,0
+3963,2014,17,Miami Dolphins,New York Jets,Sun,12/28,1:02PM,0
+3964,2014,17,Tennessee Titans,Indianapolis Colts,Sun,12/28,1:02PM,0
+3965,2014,17,New York Giants,Philadelphia Eagles,Sun,12/28,1:02PM,0
+3966,2014,17,Baltimore Ravens,Cleveland Browns,Sun,12/28,1:02PM,0
+3967,2014,17,New England Patriots,Buffalo Bills,Sun,12/28,1:02PM,0
+3968,2014,17,Houston Texans,Jacksonville Jaguars,Sun,12/28,1:03PM,0
+3969,2014,17,Tampa Bay Buccaneers,New Orleans Saints,Sun,12/28,1:03PM,0
+3970,2014,17,Kansas City Chiefs,San Diego Chargers,Sun,12/28,1:03PM,0
+3971,2014,17,Washington Redskins,Dallas Cowboys,Sun,12/28,1:05PM,0
+3972,2014,17,San Francisco 49ers,Arizona Cardinals,Sun,12/28,4:25PM,0
+3973,2014,17,Atlanta Falcons,Carolina Panthers,Sun,12/28,4:25PM,0
+3974,2014,17,Green Bay Packers,Detroit Lions,Sun,12/28,4:25PM,0
+3975,2014,17,Denver Broncos,Oakland Raiders,Sun,12/28,4:25PM,0
+3976,2014,17,Seattle Seahawks,St. Louis Rams,Sun,12/28,4:27PM,0
+3977,2014,17,Pittsburgh Steelers,Cincinnati Bengals,Sun,12/28,8:30PM,0
+3978,2014,18,Carolina Panthers,Arizona Cardinals,Sat,1/3,4:20PM,0
+3979,2014,18,Pittsburgh Steelers,Baltimore Ravens,Sat,1/3,8:15PM,0
+3980,2014,18,Indianapolis Colts,Cincinnati Bengals,Sun,1/4,1:05PM,0
+3981,2014,18,Dallas Cowboys,Detroit Lions,Sun,1/4,4:41PM,0
+3982,2014,19,New England Patriots,Baltimore Ravens,Sat,1/10,4:35PM,0
+3983,2014,19,Seattle Seahawks,Carolina Panthers,Sat,1/10,8:21PM,0
+3984,2014,19,Green Bay Packers,Dallas Cowboys,Sun,1/11,1:05PM,0
+3985,2014,19,Denver Broncos,Indianapolis Colts,Sun,1/11,4:40PM,0
+3986,2014,20,Seattle Seahawks,Green Bay Packers,Sun,1/18,3:06PM,0
+3987,2014,20,New England Patriots,Indianapolis Colts,Sun,1/18,6:50PM,0
+3988,2014,22,New England Patriots,Seattle Seahawks,Sun,2/1,6:30PM,0
+3989,2015,1,New England Patriots,Pittsburgh Steelers,Thu,9/10,8:40PM,1
+3990,2015,1,St. Louis Rams,Seattle Seahawks,Sun,9/13,1:00PM,0
+3991,2015,1,Chicago Bears,Green Bay Packers,Sun,9/13,1:00PM,0
+3992,2015,1,Washington Redskins,Miami Dolphins,Sun,9/13,1:02PM,0
+3993,2015,1,Houston Texans,Kansas City Chiefs,Sun,9/13,1:02PM,0
+3994,2015,1,Jacksonville Jaguars,Carolina Panthers,Sun,9/13,1:03PM,0
+3995,2015,1,Buffalo Bills,Indianapolis Colts,Sun,9/13,1:03PM,0
+3996,2015,1,New York Jets,Cleveland Browns,Sun,9/13,1:04PM,0
+3997,2015,1,San Diego Chargers,Detroit Lions,Sun,9/13,4:05PM,0
+3998,2015,1,Arizona Cardinals,New Orleans Saints,Sun,9/13,4:05PM,0
+3999,2015,1,Denver Broncos,Baltimore Ravens,Sun,9/13,4:25PM,0
+4000,2015,1,Tampa Bay Buccaneers,Tennessee Titans,Sun,9/13,4:25PM,0
+4001,2015,1,Oakland Raiders,Cincinnati Bengals,Sun,9/13,4:25PM,0
+4002,2015,1,Dallas Cowboys,New York Giants,Sun,9/13,8:31PM,0
+4003,2015,1,Atlanta Falcons,Philadelphia Eagles,Mon,9/14,7:10PM,0
+4004,2015,1,San Francisco 49ers,Minnesota Vikings,Mon,9/14,10:20PM,0
+4005,2015,2,Kansas City Chiefs,Denver Broncos,Thu,9/17,8:29PM,1
+4006,2015,2,Chicago Bears,Arizona Cardinals,Sun,9/20,1:00PM,0
+4007,2015,2,Cleveland Browns,Tennessee Titans,Sun,9/20,1:02PM,0
+4008,2015,2,New York Giants,Atlanta Falcons,Sun,9/20,1:02PM,0
+4009,2015,2,Carolina Panthers,Houston Texans,Sun,9/20,1:02PM,0
+4010,2015,2,New Orleans Saints,Tampa Bay Buccaneers,Sun,9/20,1:02PM,0
+4011,2015,2,Pittsburgh Steelers,San Francisco 49ers,Sun,9/20,1:02PM,0
+4012,2015,2,Buffalo Bills,New England Patriots,Sun,9/20,1:02PM,0
+4013,2015,2,Minnesota Vikings,Detroit Lions,Sun,9/20,1:03PM,0
+4014,2015,2,Cincinnati Bengals,San Diego Chargers,Sun,9/20,1:03PM,0
+4015,2015,2,Washington Redskins,St. Louis Rams,Sun,9/20,1:03PM,0
+4016,2015,2,Jacksonville Jaguars,Miami Dolphins,Sun,9/20,4:05PM,0
+4017,2015,2,Oakland Raiders,Baltimore Ravens,Sun,9/20,4:05PM,0
+4018,2015,2,Philadelphia Eagles,Dallas Cowboys,Sun,9/20,4:25PM,0
+4019,2015,2,Green Bay Packers,Seattle Seahawks,Sun,9/20,8:25PM,0
+4020,2015,2,Indianapolis Colts,New York Jets,Mon,9/21,8:30PM,0
+4021,2015,3,New York Giants,Washington Redskins,Thu,9/24,8:26PM,1
+4022,2015,3,St. Louis Rams,Pittsburgh Steelers,Sun,9/27,1:00PM,0
+4023,2015,3,Cleveland Browns,Oakland Raiders,Sun,9/27,1:02PM,0
+4024,2015,3,Minnesota Vikings,San Diego Chargers,Sun,9/27,1:02PM,0
+4025,2015,3,Baltimore Ravens,Cincinnati Bengals,Sun,9/27,1:02PM,0
+4026,2015,3,Tennessee Titans,Indianapolis Colts,Sun,9/27,1:03PM,0
+4027,2015,3,New York Jets,Philadelphia Eagles,Sun,9/27,1:03PM,0
+4028,2015,3,Houston Texans,Tampa Bay Buccaneers,Sun,9/27,1:03PM,0
+4029,2015,3,Dallas Cowboys,Atlanta Falcons,Sun,9/27,1:03PM,0
+4030,2015,3,Carolina Panthers,New Orleans Saints,Sun,9/27,1:03PM,0
+4031,2015,3,New England Patriots,Jacksonville Jaguars,Sun,9/27,1:06PM,0
+4032,2015,3,Arizona Cardinals,San Francisco 49ers,Sun,9/27,4:05PM,0
+4033,2015,3,Miami Dolphins,Buffalo Bills,Sun,9/27,4:25PM,0
+4034,2015,3,Seattle Seahawks,Chicago Bears,Sun,9/27,4:26PM,0
+4035,2015,3,Detroit Lions,Denver Broncos,Sun,9/27,8:30PM,0
+4036,2015,3,Green Bay Packers,Kansas City Chiefs,Mon,9/28,8:30PM,0
+4037,2015,4,Pittsburgh Steelers,Baltimore Ravens,Thu,10/1,8:26PM,1
+4038,2015,4,Miami Dolphins,New York Jets,Sun,10/4,9:37AM,0
+4039,2015,4,Indianapolis Colts,Jacksonville Jaguars,Sun,10/4,1:02PM,0
+4040,2015,4,Buffalo Bills,New York Giants,Sun,10/4,1:02PM,0
+4041,2015,4,Chicago Bears,Oakland Raiders,Sun,10/4,1:02PM,0
+4042,2015,4,Atlanta Falcons,Houston Texans,Sun,10/4,1:02PM,0
+4043,2015,4,Cincinnati Bengals,Kansas City Chiefs,Sun,10/4,1:03PM,0
+4044,2015,4,Washington Redskins,Philadelphia Eagles,Sun,10/4,1:03PM,0
+4045,2015,4,Tampa Bay Buccaneers,Carolina Panthers,Sun,10/4,1:03PM,0
+4046,2015,4,San Diego Chargers,Cleveland Browns,Sun,10/4,4:05PM,0
+4047,2015,4,Arizona Cardinals,St. Louis Rams,Sun,10/4,4:25PM,0
+4048,2015,4,Denver Broncos,Minnesota Vikings,Sun,10/4,4:25PM,0
+4049,2015,4,San Francisco 49ers,Green Bay Packers,Sun,10/4,4:25PM,0
+4050,2015,4,New Orleans Saints,Dallas Cowboys,Sun,10/4,8:30PM,0
+4051,2015,4,Seattle Seahawks,Detroit Lions,Mon,10/5,8:31PM,0
+4052,2015,5,Houston Texans,Indianapolis Colts,Thu,10/8,8:26PM,1
+4053,2015,5,Baltimore Ravens,Cleveland Browns,Sun,10/11,1:02PM,0
+4054,2015,5,Kansas City Chiefs,Chicago Bears,Sun,10/11,1:02PM,0
+4055,2015,5,Atlanta Falcons,Washington Redskins,Sun,10/11,1:02PM,0
+4056,2015,5,Green Bay Packers,St. Louis Rams,Sun,10/11,1:02PM,0
+4057,2015,5,Tampa Bay Buccaneers,Jacksonville Jaguars,Sun,10/11,1:02PM,0
+4058,2015,5,Cincinnati Bengals,Seattle Seahawks,Sun,10/11,1:03PM,0
+4059,2015,5,Tennessee Titans,Buffalo Bills,Sun,10/11,1:03PM,0
+4060,2015,5,Philadelphia Eagles,New Orleans Saints,Sun,10/11,1:04PM,0
+4061,2015,5,Detroit Lions,Arizona Cardinals,Sun,10/11,4:05PM,0
+4062,2015,5,Oakland Raiders,Denver Broncos,Sun,10/11,4:25PM,0
+4063,2015,5,Dallas Cowboys,New England Patriots,Sun,10/11,4:25PM,0
+4064,2015,5,New York Giants,San Francisco 49ers,Sun,10/11,8:31PM,0
+4065,2015,5,San Diego Chargers,Pittsburgh Steelers,Mon,10/12,8:30PM,0
+4066,2015,6,New Orleans Saints,Atlanta Falcons,Thu,10/15,8:26PM,1
+4067,2015,6,New York Jets,Washington Redskins,Sun,10/18,1:02PM,0
+4068,2015,6,Buffalo Bills,Cincinnati Bengals,Sun,10/18,1:02PM,0
+4069,2015,6,Cleveland Browns,Denver Broncos,Sun,10/18,1:02PM,0
+4070,2015,6,Detroit Lions,Chicago Bears,Sun,10/18,1:02PM,0
+4071,2015,6,Jacksonville Jaguars,Houston Texans,Sun,10/18,1:02PM,0
+4072,2015,6,Minnesota Vikings,Kansas City Chiefs,Sun,10/18,1:02PM,0
+4073,2015,6,Tennessee Titans,Miami Dolphins,Sun,10/18,1:03PM,0
+4074,2015,6,Pittsburgh Steelers,Arizona Cardinals,Sun,10/18,1:04PM,0
+4075,2015,6,Seattle Seahawks,Carolina Panthers,Sun,10/18,4:06PM,0
+4076,2015,6,Green Bay Packers,San Diego Chargers,Sun,10/18,4:25PM,0
+4077,2015,6,San Francisco 49ers,Baltimore Ravens,Sun,10/18,4:25PM,0
+4078,2015,6,Indianapolis Colts,New England Patriots,Sun,10/18,8:30PM,0
+4079,2015,6,Philadelphia Eagles,New York Giants,Mon,10/19,8:30PM,0
+4080,2015,7,San Francisco 49ers,Seattle Seahawks,Thu,10/22,8:26PM,1
+4081,2015,7,Jacksonville Jaguars,Buffalo Bills,Sun,10/25,8:35AM,0
+4082,2015,7,St. Louis Rams,Cleveland Browns,Sun,10/25,1:00PM,0
+4083,2015,7,New England Patriots,New York Jets,Sun,10/25,1:02PM,0
+4084,2015,7,Miami Dolphins,Houston Texans,Sun,10/25,1:02PM,0
+4085,2015,7,Tennessee Titans,Atlanta Falcons,Sun,10/25,1:02PM,0
+4086,2015,7,Detroit Lions,Minnesota Vikings,Sun,10/25,1:02PM,0
+4087,2015,7,Indianapolis Colts,New Orleans Saints,Sun,10/25,1:03PM,0
+4088,2015,7,Kansas City Chiefs,Pittsburgh Steelers,Sun,10/25,1:03PM,0
+4089,2015,7,Washington Redskins,Tampa Bay Buccaneers,Sun,10/25,1:04PM,0
+4090,2015,7,San Diego Chargers,Oakland Raiders,Sun,10/25,4:05PM,0
+4091,2015,7,New York Giants,Dallas Cowboys,Sun,10/25,4:25PM,0
+4092,2015,7,Carolina Panthers,Philadelphia Eagles,Sun,10/25,8:31PM,0
+4093,2015,7,Arizona Cardinals,Baltimore Ravens,Mon,10/26,8:30PM,0
+4094,2015,8,New England Patriots,Miami Dolphins,Thu,10/29,8:26PM,1
+4095,2015,8,Kansas City Chiefs,Detroit Lions,Sun,11/1,9:36AM,0
+4096,2015,8,St. Louis Rams,San Francisco 49ers,Sun,11/1,1:00PM,0
+4097,2015,8,Chicago Bears,Minnesota Vikings,Sun,11/1,1:00PM,0
+4098,2015,8,Pittsburgh Steelers,Cincinnati Bengals,Sun,11/1,1:02PM,0
+4099,2015,8,Houston Texans,Tennessee Titans,Sun,11/1,1:02PM,0
+4100,2015,8,Atlanta Falcons,Tampa Bay Buccaneers,Sun,11/1,1:02PM,0
+4101,2015,8,New Orleans Saints,New York Giants,Sun,11/1,1:02PM,0
+4102,2015,8,Baltimore Ravens,San Diego Chargers,Sun,11/1,1:02PM,0
+4103,2015,8,Cleveland Browns,Arizona Cardinals,Sun,11/1,1:02PM,0
+4104,2015,8,Oakland Raiders,New York Jets,Sun,11/1,4:05PM,0
+4105,2015,8,Dallas Cowboys,Seattle Seahawks,Sun,11/1,4:25PM,0
+4106,2015,8,Denver Broncos,Green Bay Packers,Sun,11/1,8:30PM,0
+4107,2015,8,Carolina Panthers,Indianapolis Colts,Mon,11/2,8:30PM,0
+4108,2015,9,Cincinnati Bengals,Cleveland Browns,Thu,11/5,8:25PM,1
+4109,2015,9,Minnesota Vikings,St. Louis Rams,Sun,11/8,1:02PM,0
+4110,2015,9,Buffalo Bills,Miami Dolphins,Sun,11/8,1:02PM,0
+4111,2015,9,New England Patriots,Washington Redskins,Sun,11/8,1:02PM,0
+4112,2015,9,New York Jets,Jacksonville Jaguars,Sun,11/8,1:02PM,0
+4113,2015,9,New Orleans Saints,Tennessee Titans,Sun,11/8,1:02PM,0
+4114,2015,9,Pittsburgh Steelers,Oakland Raiders,Sun,11/8,1:02PM,0
+4115,2015,9,Carolina Panthers,Green Bay Packers,Sun,11/8,1:04PM,0
+4116,2015,9,Tampa Bay Buccaneers,New York Giants,Sun,11/8,4:05PM,0
+4117,2015,9,San Francisco 49ers,Atlanta Falcons,Sun,11/8,4:05PM,0
+4118,2015,9,Indianapolis Colts,Denver Broncos,Sun,11/8,4:25PM,0
+4119,2015,9,Dallas Cowboys,Philadelphia Eagles,Sun,11/8,8:31PM,0
+4120,2015,9,San Diego Chargers,Chicago Bears,Mon,11/9,8:30PM,0
+4121,2015,10,New York Jets,Buffalo Bills,Thu,11/12,8:26PM,1
+4122,2015,10,St. Louis Rams,Chicago Bears,Sun,11/15,1:00PM,0
+4123,2015,10,Tennessee Titans,Carolina Panthers,Sun,11/15,1:03PM,0
+4124,2015,10,Green Bay Packers,Detroit Lions,Sun,11/15,1:04PM,0
+4125,2015,10,Pittsburgh Steelers,Cleveland Browns,Sun,11/15,1:04PM,0
+4126,2015,10,Baltimore Ravens,Jacksonville Jaguars,Sun,11/15,1:05PM,0
+4127,2015,10,Tampa Bay Buccaneers,Dallas Cowboys,Sun,11/15,1:05PM,0
+4128,2015,10,Philadelphia Eagles,Miami Dolphins,Sun,11/15,1:05PM,0
+4129,2015,10,Washington Redskins,New Orleans Saints,Sun,11/15,1:05PM,0
+4130,2015,10,Oakland Raiders,Minnesota Vikings,Sun,11/15,4:05PM,0
+4131,2015,10,Denver Broncos,Kansas City Chiefs,Sun,11/15,4:30PM,0
+4132,2015,10,New York Giants,New England Patriots,Sun,11/15,4:31PM,0
+4133,2015,10,Seattle Seahawks,Arizona Cardinals,Sun,11/15,8:35PM,0
+4134,2015,10,Cincinnati Bengals,Houston Texans,Mon,11/16,8:30PM,0
+4135,2015,11,Jacksonville Jaguars,Tennessee Titans,Thu,11/19,8:26PM,1
+4136,2015,11,Philadelphia Eagles,Tampa Bay Buccaneers,Sun,11/22,1:02PM,0
+4137,2015,11,Baltimore Ravens,St. Louis Rams,Sun,11/22,1:02PM,0
+4138,2015,11,Chicago Bears,Denver Broncos,Sun,11/22,1:02PM,0
+4139,2015,11,Atlanta Falcons,Indianapolis Colts,Sun,11/22,1:02PM,0
+4140,2015,11,Carolina Panthers,Washington Redskins,Sun,11/22,1:02PM,0
+4141,2015,11,Detroit Lions,Oakland Raiders,Sun,11/22,1:02PM,0
+4142,2015,11,Houston Texans,New York Jets,Sun,11/22,1:03PM,0
+4143,2015,11,Miami Dolphins,Dallas Cowboys,Sun,11/22,1:03PM,0
+4144,2015,11,San Diego Chargers,Kansas City Chiefs,Sun,11/22,4:05PM,0
+4145,2015,11,Minnesota Vikings,Green Bay Packers,Sun,11/22,4:25PM,0
+4146,2015,11,Seattle Seahawks,San Francisco 49ers,Sun,11/22,4:27PM,0
+4147,2015,11,Arizona Cardinals,Cincinnati Bengals,Sun,11/22,8:30PM,0
+4148,2015,11,New England Patriots,Buffalo Bills,Mon,11/23,8:30PM,0
+4149,2015,12,Detroit Lions,Philadelphia Eagles,Thu,11/26,12:35PM,1
+4150,2015,12,Dallas Cowboys,Carolina Panthers,Thu,11/26,4:31PM,1
+4151,2015,12,Green Bay Packers,Chicago Bears,Thu,11/26,8:30PM,1
+4152,2015,12,New York Jets,Miami Dolphins,Sun,11/29,1:02PM,0
+4153,2015,12,Tennessee Titans,Oakland Raiders,Sun,11/29,1:02PM,0
+4154,2015,12,Houston Texans,New Orleans Saints,Sun,11/29,1:02PM,0
+4155,2015,12,Indianapolis Colts,Tampa Bay Buccaneers,Sun,11/29,1:02PM,0
+4156,2015,12,Atlanta Falcons,Minnesota Vikings,Sun,11/29,1:02PM,0
+4157,2015,12,Cincinnati Bengals,St. Louis Rams,Sun,11/29,1:02PM,0
+4158,2015,12,Washington Redskins,New York Giants,Sun,11/29,1:03PM,0
+4159,2015,12,Kansas City Chiefs,Buffalo Bills,Sun,11/29,1:03PM,0
+4160,2015,12,Jacksonville Jaguars,San Diego Chargers,Sun,11/29,1:03PM,0
+4161,2015,12,San Francisco 49ers,Arizona Cardinals,Sun,11/29,4:05PM,0
+4162,2015,12,Seattle Seahawks,Pittsburgh Steelers,Sun,11/29,4:26PM,0
+4163,2015,12,Denver Broncos,New England Patriots,Sun,11/29,8:30PM,0
+4164,2015,12,Cleveland Browns,Baltimore Ravens,Mon,11/30,8:30PM,0
+4165,2015,13,Detroit Lions,Green Bay Packers,Thu,12/3,8:26PM,1
+4166,2015,13,St. Louis Rams,Arizona Cardinals,Sun,12/6,1:00PM,0
+4167,2015,13,Tennessee Titans,Jacksonville Jaguars,Sun,12/6,1:02PM,0
+4168,2015,13,Chicago Bears,San Francisco 49ers,Sun,12/6,1:02PM,0
+4169,2015,13,Buffalo Bills,Houston Texans,Sun,12/6,1:02PM,0
+4170,2015,13,Minnesota Vikings,Seattle Seahawks,Sun,12/6,1:02PM,0
+4171,2015,13,Tampa Bay Buccaneers,Atlanta Falcons,Sun,12/6,1:03PM,0
+4172,2015,13,Cleveland Browns,Cincinnati Bengals,Sun,12/6,1:03PM,0
+4173,2015,13,Miami Dolphins,Baltimore Ravens,Sun,12/6,1:03PM,0
+4174,2015,13,New York Giants,New York Jets,Sun,12/6,1:03PM,0
+4175,2015,13,San Diego Chargers,Denver Broncos,Sun,12/6,4:05PM,0
+4176,2015,13,Oakland Raiders,Kansas City Chiefs,Sun,12/6,4:05PM,0
+4177,2015,13,New Orleans Saints,Carolina Panthers,Sun,12/6,4:25PM,0
+4178,2015,13,New England Patriots,Philadelphia Eagles,Sun,12/6,4:25PM,0
+4179,2015,13,Pittsburgh Steelers,Indianapolis Colts,Sun,12/6,8:30PM,0
+4180,2015,13,Washington Redskins,Dallas Cowboys,Mon,12/7,8:31PM,0
+4181,2015,14,Arizona Cardinals,Minnesota Vikings,Thu,12/10,8:25PM,1
+4182,2015,14,Philadelphia Eagles,Buffalo Bills,Sun,12/13,1:01PM,0
+4183,2015,14,Tampa Bay Buccaneers,New Orleans Saints,Sun,12/13,1:02PM,0
+4184,2015,14,New York Jets,Tennessee Titans,Sun,12/13,1:02PM,0
+4185,2015,14,Baltimore Ravens,Seattle Seahawks,Sun,12/13,1:02PM,0
+4186,2015,14,Chicago Bears,Washington Redskins,Sun,12/13,1:02PM,0
+4187,2015,14,Jacksonville Jaguars,Indianapolis Colts,Sun,12/13,1:02PM,0
+4188,2015,14,Cincinnati Bengals,Pittsburgh Steelers,Sun,12/13,1:02PM,0
+4189,2015,14,St. Louis Rams,Detroit Lions,Sun,12/13,1:02PM,0
+4190,2015,14,Cleveland Browns,San Francisco 49ers,Sun,12/13,1:02PM,0
+4191,2015,14,Carolina Panthers,Atlanta Falcons,Sun,12/13,1:03PM,0
+4192,2015,14,Kansas City Chiefs,San Diego Chargers,Sun,12/13,1:03PM,0
+4193,2015,14,Denver Broncos,Oakland Raiders,Sun,12/13,4:05PM,0
+4194,2015,14,Green Bay Packers,Dallas Cowboys,Sun,12/13,4:25PM,0
+4195,2015,14,Houston Texans,New England Patriots,Sun,12/13,8:31PM,0
+4196,2015,14,Miami Dolphins,New York Giants,Mon,12/14,8:30PM,0
+4197,2015,15,St. Louis Rams,Tampa Bay Buccaneers,Thu,12/17,8:25PM,1
+4198,2015,15,Dallas Cowboys,New York Jets,Sat,12/19,8:26PM,0
+4199,2015,15,New York Giants,Carolina Panthers,Sun,12/20,1:02PM,0
+4200,2015,15,Minnesota Vikings,Chicago Bears,Sun,12/20,1:02PM,0
+4201,2015,15,Indianapolis Colts,Houston Texans,Sun,12/20,1:02PM,0
+4202,2015,15,New England Patriots,Tennessee Titans,Sun,12/20,1:02PM,0
+4203,2015,15,Jacksonville Jaguars,Atlanta Falcons,Sun,12/20,1:02PM,0
+4204,2015,15,Baltimore Ravens,Kansas City Chiefs,Sun,12/20,1:02PM,0
+4205,2015,15,Washington Redskins,Buffalo Bills,Sun,12/20,1:03PM,0
+4206,2015,15,Oakland Raiders,Green Bay Packers,Sun,12/20,4:05PM,0
+4207,2015,15,Seattle Seahawks,Cleveland Browns,Sun,12/20,4:06PM,0
+4208,2015,15,San Diego Chargers,Miami Dolphins,Sun,12/20,4:25PM,0
+4209,2015,15,San Francisco 49ers,Cincinnati Bengals,Sun,12/20,4:25PM,0
+4210,2015,15,Pittsburgh Steelers,Denver Broncos,Sun,12/20,4:25PM,0
+4211,2015,15,Philadelphia Eagles,Arizona Cardinals,Sun,12/20,8:31PM,0
+4212,2015,15,New Orleans Saints,Detroit Lions,Mon,12/21,8:30PM,0
+4213,2015,16,Oakland Raiders,San Diego Chargers,Thu,12/24,8:26PM,1
+4214,2015,16,Philadelphia Eagles,Washington Redskins,Sat,12/26,8:26PM,0
+4215,2015,16,Atlanta Falcons,Carolina Panthers,Sun,12/27,1:02PM,0
+4216,2015,16,Tennessee Titans,Houston Texans,Sun,12/27,1:02PM,0
+4217,2015,16,Baltimore Ravens,Pittsburgh Steelers,Sun,12/27,1:02PM,0
+4218,2015,16,Buffalo Bills,Dallas Cowboys,Sun,12/27,1:02PM,0
+4219,2015,16,Miami Dolphins,Indianapolis Colts,Sun,12/27,1:02PM,0
+4220,2015,16,New York Jets,New England Patriots,Sun,12/27,1:02PM,0
+4221,2015,16,Detroit Lions,San Francisco 49ers,Sun,12/27,1:03PM,0
+4222,2015,16,Kansas City Chiefs,Cleveland Browns,Sun,12/27,1:03PM,0
+4223,2015,16,Tampa Bay Buccaneers,Chicago Bears,Sun,12/27,1:03PM,0
+4224,2015,16,New Orleans Saints,Jacksonville Jaguars,Sun,12/27,4:05PM,0
+4225,2015,16,Arizona Cardinals,Green Bay Packers,Sun,12/27,4:25PM,0
+4226,2015,16,Seattle Seahawks,St. Louis Rams,Sun,12/27,4:26PM,0
+4227,2015,16,Minnesota Vikings,New York Giants,Sun,12/27,8:30PM,0
+4228,2015,16,Denver Broncos,Cincinnati Bengals,Mon,12/28,8:30PM,0
+4229,2015,17,Chicago Bears,Detroit Lions,Sun,1/3,1:02PM,0
+4230,2015,17,Indianapolis Colts,Tennessee Titans,Sun,1/3,1:02PM,0
+4231,2015,17,Cincinnati Bengals,Baltimore Ravens,Sun,1/3,1:02PM,0
+4232,2015,17,Atlanta Falcons,New Orleans Saints,Sun,1/3,1:02PM,0
+4233,2015,17,Miami Dolphins,New England Patriots,Sun,1/3,1:02PM,0
+4234,2015,17,Houston Texans,Jacksonville Jaguars,Sun,1/3,1:02PM,0
+4235,2015,17,Cleveland Browns,Pittsburgh Steelers,Sun,1/3,1:02PM,0
+4236,2015,17,Buffalo Bills,New York Jets,Sun,1/3,1:02PM,0
+4237,2015,17,Dallas Cowboys,Washington Redskins,Sun,1/3,1:03PM,0
+4238,2015,17,New York Giants,Philadelphia Eagles,Sun,1/3,1:03PM,0
+4239,2015,17,Denver Broncos,San Diego Chargers,Sun,1/3,4:25PM,0
+4240,2015,17,San Francisco 49ers,St. Louis Rams,Sun,1/3,4:25PM,0
+4241,2015,17,Carolina Panthers,Tampa Bay Buccaneers,Sun,1/3,4:25PM,0
+4242,2015,17,Arizona Cardinals,Seattle Seahawks,Sun,1/3,4:25PM,0
+4243,2015,17,Kansas City Chiefs,Oakland Raiders,Sun,1/3,4:26PM,0
+4244,2015,17,Green Bay Packers,Minnesota Vikings,Sun,1/3,8:30PM,0
+4245,2015,18,Houston Texans,Kansas City Chiefs,Sat,1/9,4:35PM,0
+4246,2015,18,Cincinnati Bengals,Pittsburgh Steelers,Sat,1/9,8:15PM,0
+4247,2015,18,Minnesota Vikings,Seattle Seahawks,Sun,1/10,1:05PM,0
+4248,2015,18,Washington Redskins,Green Bay Packers,Sun,1/10,4:42PM,0
+4249,2015,19,New England Patriots,Kansas City Chiefs,Sat,1/16,4:35PM,0
+4250,2015,19,Arizona Cardinals,Green Bay Packers,Sat,1/16,8:15PM,0
+4251,2015,19,Carolina Panthers,Seattle Seahawks,Sun,1/17,1:06PM,0
+4252,2015,19,Denver Broncos,Pittsburgh Steelers,Sun,1/17,4:40PM,0
+4253,2015,20,Denver Broncos,New England Patriots,Sun,1/24,3:05PM,0
+4254,2015,20,Carolina Panthers,Arizona Cardinals,Sun,1/24,6:42PM,0
+4255,2015,22,Denver Broncos,Carolina Panthers,Sun,2/7,6:39PM,0
+4256,2016,1,Denver Broncos,Carolina Panthers,Thu,9/8,8:40PM,1
+4257,2016,1,Jacksonville Jaguars,Green Bay Packers,Sun,9/11,1:04PM,0
+4258,2016,1,Baltimore Ravens,Buffalo Bills,Sun,9/11,1:04PM,0
+4259,2016,1,Kansas City Chiefs,San Diego Chargers,Sun,9/11,1:05PM,0
+4260,2016,1,Atlanta Falcons,Tampa Bay Buccaneers,Sun,9/11,1:05PM,0
+4261,2016,1,Tennessee Titans,Minnesota Vikings,Sun,9/11,1:05PM,0
+4262,2016,1,New Orleans Saints,Oakland Raiders,Sun,9/11,1:05PM,0
+4263,2016,1,New York Jets,Cincinnati Bengals,Sun,9/11,1:05PM,0
+4264,2016,1,Philadelphia Eagles,Cleveland Browns,Sun,9/11,1:05PM,0
+4265,2016,1,Houston Texans,Chicago Bears,Sun,9/11,1:05PM,0
+4266,2016,1,Seattle Seahawks,Miami Dolphins,Sun,9/11,4:08PM,0
+4267,2016,1,Dallas Cowboys,New York Giants,Sun,9/11,4:27PM,0
+4268,2016,1,Indianapolis Colts,Detroit Lions,Sun,9/11,4:27PM,0
+4269,2016,1,Arizona Cardinals,New England Patriots,Sun,9/11,8:30PM,0
+4270,2016,1,Washington Redskins,Pittsburgh Steelers,Mon,9/12,7:11PM,0
+4271,2016,1,San Francisco 49ers,Los Angeles Rams,Mon,9/12,10:20PM,0
+4272,2016,2,Buffalo Bills,New York Jets,Thu,9/15,8:26PM,1
+4273,2016,2,New England Patriots,Miami Dolphins,Sun,9/18,1:02PM,0
+4274,2016,2,Detroit Lions,Tennessee Titans,Sun,9/18,1:02PM,0
+4275,2016,2,Pittsburgh Steelers,Cincinnati Bengals,Sun,9/18,1:02PM,0
+4276,2016,2,Cleveland Browns,Baltimore Ravens,Sun,9/18,1:02PM,0
+4277,2016,2,Houston Texans,Kansas City Chiefs,Sun,9/18,1:02PM,0
+4278,2016,2,Carolina Panthers,San Francisco 49ers,Sun,9/18,1:03PM,0
+4279,2016,2,Washington Redskins,Dallas Cowboys,Sun,9/18,1:03PM,0
+4280,2016,2,New York Giants,New Orleans Saints,Sun,9/18,1:03PM,0
+4281,2016,2,Arizona Cardinals,Tampa Bay Buccaneers,Sun,9/18,1:05PM,0
+4282,2016,2,Los Angeles Rams,Seattle Seahawks,Sun,9/18,4:08PM,0
+4283,2016,2,San Diego Chargers,Jacksonville Jaguars,Sun,9/18,4:25PM,0
+4284,2016,2,Oakland Raiders,Atlanta Falcons,Sun,9/18,4:25PM,0
+4285,2016,2,Denver Broncos,Indianapolis Colts,Sun,9/18,4:25PM,0
+4286,2016,2,Minnesota Vikings,Green Bay Packers,Sun,9/18,8:32PM,0
+4287,2016,2,Chicago Bears,Philadelphia Eagles,Mon,9/19,8:30PM,0
+4288,2016,3,New England Patriots,Houston Texans,Thu,9/22,8:26PM,1
+4289,2016,3,Buffalo Bills,Arizona Cardinals,Sun,9/25,1:02PM,0
+4290,2016,3,Miami Dolphins,Cleveland Browns,Sun,9/25,1:02PM,0
+4291,2016,3,Tennessee Titans,Oakland Raiders,Sun,9/25,1:02PM,0
+4292,2016,3,Jacksonville Jaguars,Baltimore Ravens,Sun,9/25,1:02PM,0
+4293,2016,3,Carolina Panthers,Minnesota Vikings,Sun,9/25,1:02PM,0
+4294,2016,3,Green Bay Packers,Detroit Lions,Sun,9/25,1:02PM,0
+4295,2016,3,New York Giants,Washington Redskins,Sun,9/25,1:02PM,0
+4296,2016,3,Cincinnati Bengals,Denver Broncos,Sun,9/25,1:02PM,0
+4297,2016,3,Seattle Seahawks,San Francisco 49ers,Sun,9/25,4:05PM,0
+4298,2016,3,Tampa Bay Buccaneers,Los Angeles Rams,Sun,9/25,4:05PM,0
+4299,2016,3,Philadelphia Eagles,Pittsburgh Steelers,Sun,9/25,4:25PM,0
+4300,2016,3,Indianapolis Colts,San Diego Chargers,Sun,9/25,4:25PM,0
+4301,2016,3,Kansas City Chiefs,New York Jets,Sun,9/25,4:26PM,0
+4302,2016,3,Dallas Cowboys,Chicago Bears,Sun,9/25,8:31PM,0
+4303,2016,3,New Orleans Saints,Atlanta Falcons,Mon,9/26,8:30PM,0
+4304,2016,4,Cincinnati Bengals,Miami Dolphins,Thu,9/29,8:26PM,1
+4305,2016,4,Jacksonville Jaguars,Indianapolis Colts,Sun,10/2,9:35AM,0
+4306,2016,4,Chicago Bears,Detroit Lions,Sun,10/2,1:00PM,0
+4307,2016,4,Baltimore Ravens,Oakland Raiders,Sun,10/2,1:02PM,0
+4308,2016,4,New England Patriots,Buffalo Bills,Sun,10/2,1:02PM,0
+4309,2016,4,Houston Texans,Tennessee Titans,Sun,10/2,1:02PM,0
+4310,2016,4,New York Jets,Seattle Seahawks,Sun,10/2,1:03PM,0
+4311,2016,4,Atlanta Falcons,Carolina Panthers,Sun,10/2,1:04PM,0
+4312,2016,4,Washington Redskins,Cleveland Browns,Sun,10/2,1:05PM,0
+4313,2016,4,Tampa Bay Buccaneers,Denver Broncos,Sun,10/2,4:05PM,0
+4314,2016,4,Arizona Cardinals,Los Angeles Rams,Sun,10/2,4:25PM,0
+4315,2016,4,San Francisco 49ers,Dallas Cowboys,Sun,10/2,4:25PM,0
+4316,2016,4,San Diego Chargers,New Orleans Saints,Sun,10/2,4:25PM,0
+4317,2016,4,Pittsburgh Steelers,Kansas City Chiefs,Sun,10/2,8:30PM,0
+4318,2016,4,Minnesota Vikings,New York Giants,Mon,10/3,8:35PM,0
+4319,2016,5,San Francisco 49ers,Arizona Cardinals,Thu,10/6,8:27PM,1
+4320,2016,5,Indianapolis Colts,Chicago Bears,Sun,10/9,1:02PM,0
+4321,2016,5,Detroit Lions,Philadelphia Eagles,Sun,10/9,1:02PM,0
+4322,2016,5,Pittsburgh Steelers,New York Jets,Sun,10/9,1:02PM,0
+4323,2016,5,Miami Dolphins,Tennessee Titans,Sun,10/9,1:02PM,0
+4324,2016,5,Cleveland Browns,New England Patriots,Sun,10/9,1:02PM,0
+4325,2016,5,Baltimore Ravens,Washington Redskins,Sun,10/9,1:03PM,0
+4326,2016,5,Minnesota Vikings,Houston Texans,Sun,10/9,1:05PM,0
+4327,2016,5,Denver Broncos,Atlanta Falcons,Sun,10/9,4:05PM,0
+4328,2016,5,Oakland Raiders,San Diego Chargers,Sun,10/9,4:25PM,0
+4329,2016,5,Dallas Cowboys,Cincinnati Bengals,Sun,10/9,4:25PM,0
+4330,2016,5,Los Angeles Rams,Buffalo Bills,Sun,10/9,4:25PM,0
+4331,2016,5,Green Bay Packers,New York Giants,Sun,10/9,8:30PM,0
+4332,2016,5,Carolina Panthers,Tampa Bay Buccaneers,Mon,10/10,8:04PM,0
+4333,2016,6,San Diego Chargers,Denver Broncos,Thu,10/13,8:25PM,1
+4334,2016,6,Tennessee Titans,Cleveland Browns,Sun,10/16,1:02PM,0
+4335,2016,6,New York Giants,Baltimore Ravens,Sun,10/16,1:02PM,0
+4336,2016,6,Chicago Bears,Jacksonville Jaguars,Sun,10/16,1:02PM,0
+4337,2016,6,Detroit Lions,Los Angeles Rams,Sun,10/16,1:02PM,0
+4338,2016,6,Miami Dolphins,Pittsburgh Steelers,Sun,10/16,1:02PM,0
+4339,2016,6,New England Patriots,Cincinnati Bengals,Sun,10/16,1:02PM,0
+4340,2016,6,Buffalo Bills,San Francisco 49ers,Sun,10/16,1:02PM,0
+4341,2016,6,Washington Redskins,Philadelphia Eagles,Sun,10/16,1:03PM,0
+4342,2016,6,New Orleans Saints,Carolina Panthers,Sun,10/16,1:03PM,0
+4343,2016,6,Oakland Raiders,Kansas City Chiefs,Sun,10/16,4:05PM,0
+4344,2016,6,Green Bay Packers,Dallas Cowboys,Sun,10/16,4:25PM,0
+4345,2016,6,Seattle Seahawks,Atlanta Falcons,Sun,10/16,4:26PM,0
+4346,2016,6,Houston Texans,Indianapolis Colts,Sun,10/16,8:32PM,0
+4347,2016,6,Arizona Cardinals,New York Jets,Mon,10/17,8:30PM,0
+4348,2016,7,Green Bay Packers,Chicago Bears,Thu,10/20,8:26PM,1
+4349,2016,7,Los Angeles Rams,New York Giants,Sun,10/23,9:31AM,0
+4350,2016,7,Jacksonville Jaguars,Oakland Raiders,Sun,10/23,1:02PM,0
+4351,2016,7,Philadelphia Eagles,Minnesota Vikings,Sun,10/23,1:02PM,0
+4352,2016,7,Cincinnati Bengals,Cleveland Browns,Sun,10/23,1:02PM,0
+4353,2016,7,Miami Dolphins,Buffalo Bills,Sun,10/23,1:02PM,0
+4354,2016,7,Detroit Lions,Washington Redskins,Sun,10/23,1:02PM,0
+4355,2016,7,Tennessee Titans,Indianapolis Colts,Sun,10/23,1:02PM,0
+4356,2016,7,Kansas City Chiefs,New Orleans Saints,Sun,10/23,1:03PM,0
+4357,2016,7,New York Jets,Baltimore Ravens,Sun,10/23,1:04PM,0
+4358,2016,7,Atlanta Falcons,San Diego Chargers,Sun,10/23,4:05PM,0
+4359,2016,7,San Francisco 49ers,Tampa Bay Buccaneers,Sun,10/23,4:05PM,0
+4360,2016,7,Pittsburgh Steelers,New England Patriots,Sun,10/23,4:25PM,0
+4361,2016,7,Arizona Cardinals,Seattle Seahawks,Sun,10/23,8:30PM,0
+4362,2016,7,Denver Broncos,Houston Texans,Mon,10/24,8:30PM,0
+4363,2016,8,Tennessee Titans,Jacksonville Jaguars,Thu,10/27,8:26PM,1
+4364,2016,8,Cincinnati Bengals,Washington Redskins,Sun,10/30,8:36AM,0
+4365,2016,8,Carolina Panthers,Arizona Cardinals,Sun,10/30,12:47PM,0
+4366,2016,8,Cleveland Browns,New York Jets,Sun,10/30,1:02PM,0
+4367,2016,8,Buffalo Bills,New England Patriots,Sun,10/30,1:02PM,0
+4368,2016,8,Tampa Bay Buccaneers,Oakland Raiders,Sun,10/30,1:02PM,0
+4369,2016,8,Indianapolis Colts,Kansas City Chiefs,Sun,10/30,1:02PM,0
+4370,2016,8,New Orleans Saints,Seattle Seahawks,Sun,10/30,1:03PM,0
+4371,2016,8,Houston Texans,Detroit Lions,Sun,10/30,1:03PM,0
+4372,2016,8,Denver Broncos,San Diego Chargers,Sun,10/30,4:05PM,0
+4373,2016,8,Atlanta Falcons,Green Bay Packers,Sun,10/30,4:25PM,0
+4374,2016,8,Dallas Cowboys,Philadelphia Eagles,Sun,10/30,8:31PM,0
+4375,2016,8,Chicago Bears,Minnesota Vikings,Mon,10/31,8:31PM,0
+4376,2016,9,Tampa Bay Buccaneers,Atlanta Falcons,Thu,11/3,8:25PM,1
+4377,2016,9,Kansas City Chiefs,Jacksonville Jaguars,Sun,11/6,1:00PM,0
+4378,2016,9,Baltimore Ravens,Pittsburgh Steelers,Sun,11/6,1:00PM,0
+4379,2016,9,New York Giants,Philadelphia Eagles,Sun,11/6,1:00PM,0
+4380,2016,9,Miami Dolphins,New York Jets,Sun,11/6,1:00PM,0
+4381,2016,9,Minnesota Vikings,Detroit Lions,Sun,11/6,1:00PM,0
+4382,2016,9,Cleveland Browns,Dallas Cowboys,Sun,11/6,1:00PM,0
+4383,2016,9,San Francisco 49ers,New Orleans Saints,Sun,11/6,4:05PM,0
+4384,2016,9,Los Angeles Rams,Carolina Panthers,Sun,11/6,4:05PM,0
+4385,2016,9,Green Bay Packers,Indianapolis Colts,Sun,11/6,4:25PM,0
+4386,2016,9,San Diego Chargers,Tennessee Titans,Sun,11/6,4:25PM,0
+4387,2016,9,Oakland Raiders,Denver Broncos,Sun,11/6,8:30PM,0
+4388,2016,9,Seattle Seahawks,Buffalo Bills,Mon,11/7,8:30PM,0
+4389,2016,10,Baltimore Ravens,Cleveland Browns,Thu,11/10,8:25PM,1
+4390,2016,10,Washington Redskins,Minnesota Vikings,Sun,11/13,1:00PM,0
+4391,2016,10,Jacksonville Jaguars,Houston Texans,Sun,11/13,1:00PM,0
+4392,2016,10,Tampa Bay Buccaneers,Chicago Bears,Sun,11/13,1:00PM,0
+4393,2016,10,Carolina Panthers,Kansas City Chiefs,Sun,11/13,1:00PM,0
+4394,2016,10,Tennessee Titans,Green Bay Packers,Sun,11/13,1:00PM,0
+4395,2016,10,New Orleans Saints,Denver Broncos,Sun,11/13,1:00PM,0
+4396,2016,10,New York Jets,Los Angeles Rams,Sun,11/13,1:00PM,0
+4397,2016,10,Philadelphia Eagles,Atlanta Falcons,Sun,11/13,1:00PM,0
+4398,2016,10,San Diego Chargers,Miami Dolphins,Sun,11/13,4:05PM,0
+4399,2016,10,Arizona Cardinals,San Francisco 49ers,Sun,11/13,4:25PM,0
+4400,2016,10,Pittsburgh Steelers,Dallas Cowboys,Sun,11/13,4:25PM,0
+4401,2016,10,New England Patriots,Seattle Seahawks,Sun,11/13,8:30PM,0
+4402,2016,10,New York Giants,Cincinnati Bengals,Mon,11/14,8:30PM,0
+4403,2016,11,Carolina Panthers,New Orleans Saints,Thu,11/17,8:25PM,1
+4404,2016,11,Cincinnati Bengals,Buffalo Bills,Sun,11/20,1:00PM,0
+4405,2016,11,Kansas City Chiefs,Tampa Bay Buccaneers,Sun,11/20,1:00PM,0
+4406,2016,11,New York Giants,Chicago Bears,Sun,11/20,1:00PM,0
+4407,2016,11,Detroit Lions,Jacksonville Jaguars,Sun,11/20,1:00PM,0
+4408,2016,11,Minnesota Vikings,Arizona Cardinals,Sun,11/20,1:00PM,0
+4409,2016,11,Indianapolis Colts,Tennessee Titans,Sun,11/20,1:00PM,0
+4410,2016,11,Dallas Cowboys,Baltimore Ravens,Sun,11/20,1:00PM,0
+4411,2016,11,Cleveland Browns,Pittsburgh Steelers,Sun,11/20,1:00PM,0
+4412,2016,11,Los Angeles Rams,Miami Dolphins,Sun,11/20,4:05PM,0
+4413,2016,11,San Francisco 49ers,New England Patriots,Sun,11/20,4:25PM,0
+4414,2016,11,Seattle Seahawks,Philadelphia Eagles,Sun,11/20,4:25PM,0
+4415,2016,11,Washington Redskins,Green Bay Packers,Sun,11/20,8:30PM,0
+4416,2016,11,Oakland Raiders,Houston Texans,Mon,11/21,8:30PM,0
+4417,2016,12,Detroit Lions,Minnesota Vikings,Thu,11/24,12:30PM,1
+4418,2016,12,Dallas Cowboys,Washington Redskins,Thu,11/24,4:30PM,1
+4419,2016,12,Indianapolis Colts,Pittsburgh Steelers,Thu,11/24,8:30PM,1
+4420,2016,12,Buffalo Bills,Jacksonville Jaguars,Sun,11/27,1:00PM,0
+4421,2016,12,Houston Texans,San Diego Chargers,Sun,11/27,1:00PM,0
+4422,2016,12,Chicago Bears,Tennessee Titans,Sun,11/27,1:00PM,0
+4423,2016,12,New Orleans Saints,Los Angeles Rams,Sun,11/27,1:00PM,0
+4424,2016,12,Miami Dolphins,San Francisco 49ers,Sun,11/27,1:00PM,0
+4425,2016,12,Atlanta Falcons,Arizona Cardinals,Sun,11/27,1:00PM,0
+4426,2016,12,Baltimore Ravens,Cincinnati Bengals,Sun,11/27,1:00PM,0
+4427,2016,12,Cleveland Browns,New York Giants,Sun,11/27,1:00PM,0
+4428,2016,12,Tampa Bay Buccaneers,Seattle Seahawks,Sun,11/27,4:05PM,0
+4429,2016,12,New York Jets,New England Patriots,Sun,11/27,4:25PM,0
+4430,2016,12,Oakland Raiders,Carolina Panthers,Sun,11/27,4:25PM,0
+4431,2016,12,Denver Broncos,Kansas City Chiefs,Sun,11/27,8:30PM,0
+4432,2016,12,Philadelphia Eagles,Green Bay Packers,Mon,11/28,8:30PM,0
+4433,2016,13,Minnesota Vikings,Dallas Cowboys,Thu,12/1,7:25PM,1
+4434,2016,13,New Orleans Saints,Detroit Lions,Sun,12/4,1:00PM,0
+4435,2016,13,Chicago Bears,San Francisco 49ers,Sun,12/4,1:00PM,0
+4436,2016,13,Baltimore Ravens,Miami Dolphins,Sun,12/4,1:00PM,0
+4437,2016,13,Jacksonville Jaguars,Denver Broncos,Sun,12/4,1:00PM,0
+4438,2016,13,Atlanta Falcons,Kansas City Chiefs,Sun,12/4,1:00PM,0
+4439,2016,13,Cincinnati Bengals,Philadelphia Eagles,Sun,12/4,1:00PM,0
+4440,2016,13,New England Patriots,Los Angeles Rams,Sun,12/4,1:00PM,0
+4441,2016,13,Green Bay Packers,Houston Texans,Sun,12/4,1:00PM,0
+4442,2016,13,Oakland Raiders,Buffalo Bills,Sun,12/4,4:05PM,0
+4443,2016,13,Arizona Cardinals,Washington Redskins,Sun,12/4,4:25PM,0
+4444,2016,13,San Diego Chargers,Tampa Bay Buccaneers,Sun,12/4,4:25PM,0
+4445,2016,13,Pittsburgh Steelers,New York Giants,Sun,12/4,4:25PM,0
+4446,2016,13,Seattle Seahawks,Carolina Panthers,Sun,12/4,8:30PM,0
+4447,2016,13,New York Jets,Indianapolis Colts,Mon,12/5,8:30PM,0
+4448,2016,14,Kansas City Chiefs,Oakland Raiders,Thu,12/8,8:25PM,1
+4449,2016,14,Miami Dolphins,Arizona Cardinals,Sun,12/11,1:00PM,0
+4450,2016,14,Carolina Panthers,San Diego Chargers,Sun,12/11,1:00PM,0
+4451,2016,14,Detroit Lions,Chicago Bears,Sun,12/11,1:00PM,0
+4452,2016,14,Tennessee Titans,Denver Broncos,Sun,12/11,1:00PM,0
+4453,2016,14,Indianapolis Colts,Houston Texans,Sun,12/11,1:00PM,0
+4454,2016,14,Jacksonville Jaguars,Minnesota Vikings,Sun,12/11,1:00PM,0
+4455,2016,14,Cleveland Browns,Cincinnati Bengals,Sun,12/11,1:00PM,0
+4456,2016,14,Philadelphia Eagles,Washington Redskins,Sun,12/11,1:00PM,0
+4457,2016,14,Buffalo Bills,Pittsburgh Steelers,Sun,12/11,1:00PM,0
+4458,2016,14,San Francisco 49ers,New York Jets,Sun,12/11,4:05PM,0
+4459,2016,14,Tampa Bay Buccaneers,New Orleans Saints,Sun,12/11,4:25PM,0
+4460,2016,14,Green Bay Packers,Seattle Seahawks,Sun,12/11,4:25PM,0
+4461,2016,14,Los Angeles Rams,Atlanta Falcons,Sun,12/11,4:25PM,0
+4462,2016,14,New York Giants,Dallas Cowboys,Sun,12/11,8:30PM,0
+4463,2016,14,New England Patriots,Baltimore Ravens,Mon,12/12,8:30PM,0
+4464,2016,15,Seattle Seahawks,Los Angeles Rams,Thu,12/15,8:25PM,1
+4465,2016,15,New York Jets,Miami Dolphins,Sat,12/17,8:25PM,0
+4466,2016,15,Buffalo Bills,Cleveland Browns,Sun,12/18,1:00PM,0
+4467,2016,15,New York Giants,Detroit Lions,Sun,12/18,1:00PM,0
+4468,2016,15,Chicago Bears,Green Bay Packers,Sun,12/18,1:00PM,0
+4469,2016,15,Minnesota Vikings,Indianapolis Colts,Sun,12/18,1:00PM,0
+4470,2016,15,Cincinnati Bengals,Pittsburgh Steelers,Sun,12/18,1:00PM,0
+4471,2016,15,Baltimore Ravens,Philadelphia Eagles,Sun,12/18,1:00PM,0
+4472,2016,15,Houston Texans,Jacksonville Jaguars,Sun,12/18,1:00PM,0
+4473,2016,15,Kansas City Chiefs,Tennessee Titans,Sun,12/18,1:00PM,0
+4474,2016,15,Arizona Cardinals,New Orleans Saints,Sun,12/18,4:05PM,0
+4475,2016,15,Atlanta Falcons,San Francisco 49ers,Sun,12/18,4:05PM,0
+4476,2016,15,Denver Broncos,New England Patriots,Sun,12/18,4:25PM,0
+4477,2016,15,San Diego Chargers,Oakland Raiders,Sun,12/18,4:25PM,0
+4478,2016,15,Dallas Cowboys,Tampa Bay Buccaneers,Sun,12/18,8:30PM,0
+4479,2016,15,Washington Redskins,Carolina Panthers,Mon,12/19,8:30PM,0
+4480,2016,16,Philadelphia Eagles,New York Giants,Thu,12/22,8:25PM,1
+4481,2016,16,Carolina Panthers,Atlanta Falcons,Sat,12/24,1:00PM,0
+4482,2016,16,New England Patriots,New York Jets,Sat,12/24,1:00PM,0
+4483,2016,16,Green Bay Packers,Minnesota Vikings,Sat,12/24,1:00PM,0
+4484,2016,16,Buffalo Bills,Miami Dolphins,Sat,12/24,1:00PM,0
+4485,2016,16,Cleveland Browns,San Diego Chargers,Sat,12/24,1:00PM,0
+4486,2016,16,Jacksonville Jaguars,Tennessee Titans,Sat,12/24,1:00PM,0
+4487,2016,16,Chicago Bears,Washington Redskins,Sat,12/24,1:00PM,0
+4488,2016,16,Oakland Raiders,Indianapolis Colts,Sat,12/24,4:05PM,0
+4489,2016,16,Los Angeles Rams,San Francisco 49ers,Sat,12/24,4:25PM,0
+4490,2016,16,New Orleans Saints,Tampa Bay Buccaneers,Sat,12/24,4:25PM,0
+4491,2016,16,Seattle Seahawks,Arizona Cardinals,Sat,12/24,4:25PM,0
+4492,2016,16,Houston Texans,Cincinnati Bengals,Sat,12/24,8:25PM,0
+4493,2016,16,Pittsburgh Steelers,Baltimore Ravens,Sun,12/25,4:30PM,0
+4494,2016,16,Kansas City Chiefs,Denver Broncos,Sun,12/25,8:30PM,0
+4495,2016,16,Dallas Cowboys,Detroit Lions,Mon,12/26,8:30PM,0
+4496,2016,17,Pittsburgh Steelers,Cleveland Browns,Sun,1/1,1:00PM,0
+4497,2016,17,Minnesota Vikings,Chicago Bears,Sun,1/1,1:00PM,0
+4498,2016,17,Tennessee Titans,Houston Texans,Sun,1/1,1:00PM,0
+4499,2016,17,Indianapolis Colts,Jacksonville Jaguars,Sun,1/1,1:00PM,0
+4500,2016,17,Cincinnati Bengals,Baltimore Ravens,Sun,1/1,1:00PM,0
+4501,2016,17,Philadelphia Eagles,Dallas Cowboys,Sun,1/1,1:00PM,0
+4502,2016,17,Tampa Bay Buccaneers,Carolina Panthers,Sun,1/1,1:00PM,0
+4503,2016,17,Miami Dolphins,New England Patriots,Sun,1/1,1:00PM,0
+4504,2016,17,New York Jets,Buffalo Bills,Sun,1/1,1:00PM,0
+4505,2016,17,Denver Broncos,Oakland Raiders,Sun,1/1,4:25PM,0
+4506,2016,17,San Diego Chargers,Kansas City Chiefs,Sun,1/1,4:25PM,0
+4507,2016,17,Atlanta Falcons,New Orleans Saints,Sun,1/1,4:25PM,0
+4508,2016,17,Washington Redskins,New York Giants,Sun,1/1,4:25PM,0
+4509,2016,17,San Francisco 49ers,Seattle Seahawks,Sun,1/1,4:25PM,0
+4510,2016,17,Los Angeles Rams,Arizona Cardinals,Sun,1/1,4:25PM,0
+4511,2016,17,Detroit Lions,Green Bay Packers,Sun,1/1,8:30PM,0
+4512,2016,18,Houston Texans,Oakland Raiders,Sat,1/7,4:35PM,0
+4513,2016,18,Seattle Seahawks,Detroit Lions,Sat,1/7,8:15PM,0
+4514,2016,18,Pittsburgh Steelers,Miami Dolphins,Sun,1/8,1:05PM,0
+4515,2016,18,Green Bay Packers,New York Giants,Sun,1/8,4:40PM,0
+4516,2016,19,Atlanta Falcons,Seattle Seahawks,Sat,1/14,4:35PM,0
+4517,2016,19,New England Patriots,Houston Texans,Sat,1/14,8:15PM,0
+4518,2016,19,Dallas Cowboys,Green Bay Packers,Sun,1/15,4:40PM,0
+4519,2016,19,Kansas City Chiefs,Pittsburgh Steelers,Sun,1/15,8:20PM,0
+4520,2016,20,Atlanta Falcons,Green Bay Packers,Sun,1/22,3:05PM,0
+4521,2016,20,New England Patriots,Pittsburgh Steelers,Sun,1/22,6:40PM,0
+4522,2016,22,New England Patriots,Atlanta Falcons,Sun,2/5,6:30PM,0
