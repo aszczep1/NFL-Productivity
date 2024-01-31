@@ -1,36 +1,28 @@
 # NFL-Productivity
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+
+#### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to uderstand what factors drive NFL player performance and have potential to be generalizale to indivudals in a competitive setting. The project considers multiple measures of productivity as an output variable in its regression models, including quarterback rating (QBR) and yards per game. The data considers multiple variables that could impact performance. All of the data obtained is indiviudal player stats across the 2014, 2015 and 2016 NFL seasons. 
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Data pre-processing
+* Linear regression analysis
+* Inferential statistics
+* Predictive statistics
+* Data visualization 
 
 ### Technologies
-* R 
+* Microsoft Excel
+* Jupyter Notebook
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Pandas, Numpy, Matplotlib
+* SKlearn
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+This project is looking to find factors surrounding an NFL game that effects player performance for quarterbacks and the other skills position players (running back, wide receiver, tight end) for the 2014, 2015, and 2016 NFL seasons. The project was mostly focused around the idea of the Hawthorne Effect. This is an idea in psychology that says indivudals will act differently when there is other people watching. Now, this idea pertains to behavior, where as this project is looking at performance. However, this coupled with the idea of "choking under pressure" led to the project looking at variables that may insight nerves in these players. Therefore, the factors include playing at home, attendance to the game, if the game was during primetime, among other factors. Other factors were used to see if they could create a regression that was more predictive of player performance. Most of the data that was collected for this project was obtained from [Kaggle](kaggle.com). Direct links are provided in the cleaning code of these data sets. 
 
 ## Needs of this project
 
@@ -45,8 +37,6 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
     
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 4. etc...
