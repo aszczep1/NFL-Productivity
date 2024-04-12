@@ -22,7 +22,7 @@ The purpose of this project is to uderstand what factors drive NFL player perfor
 * Scikit-learn
 
 ## Project Description
-This project is looking to find factors surrounding an NFL game that effects player performance for quarterbacks and the other skills position players (running back, wide receiver, tight end) for the 2014, 2015, and 2016 NFL seasons. The project was mostly focused around the idea of the Hawthorne Effect. This is an idea in psychology that says indivudals will act differently when there is other people watching. Now, this idea pertains to behavior, where as this project is looking at performance. However, this coupled with the idea of "choking under pressure" led to the project looking at variables that may insight nerves in these players. Therefore, the factors include playing at home, attendance to the game, if the game was during primetime, among other factors. Other factors were used to see if they could create a regression that was more predictive of player performance. Most of the data that was collected for this project was obtained from [Kaggle](kaggle.com). Direct links are provided in the cleaning code of these data sets. 
+This project is looking to find factors surrounding an NFL game that effects player performance for quarterbacks and the other skills position players (running back, wide receiver, tight end) for the 2014, 2015, and 2016 NFL seasons. The project was mostly focused around the idea of the Hawthorne Effect. This is an idea in psychology that says indivudals will act differently when there is other people watching. Now, this idea pertains to behavior, where as this project is looking at performance. However, this coupled with the idea of "choking under pressure" led to the project looking at variables that may insight nerves in these players. Therefore, the factors include playing at home, attendance to the game, if the game was during primetime, among other factors. Other factors were used to see if they could create a regression that was more predictive of player performance. Most of the data that was collected for this project was obtained from Kaggle.com. Direct links are provided in the cleaning code of these data sets. 
 
 ## Needs of this project
 
@@ -34,8 +34,7 @@ This project is looking to find factors surrounding an NFL game that effects pla
   
 
 ## Getting Started
-    1. The [master-clean Jupyter Notebook](https://github.com/aszczep1/) will walk you through the cleaning process. Including where 
-        the data was obtained. 
+    1. The [master-clean Jupyter Notebook](Data-clean/Master_Dataset_2.ipynb) will walk you through the cleaning process.       Including where the data was obtained. 
     2. Once the data is cleaned, the analysis folder contains the linear regression code. I looked at p-values of the 
         variables to understand what factors have the biggest impact on performance. 
 
