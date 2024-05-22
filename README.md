@@ -1,8 +1,6 @@
 # NFL-Productivity
 
 
-#### -- Project Status: [Active]
-
 ## Project Intro/Objective
 The purpose of this project is to uderstand what factors drive NFL player performance and have potential to be generalizale to indivudals in a competitive setting. The project considers multiple measures of productivity as an output variable in its regression models, including quarterback rating (QBR) and yards per game. The data considers multiple variables that could impact performance. All of the data obtained is indiviudal player stats across the 2014, 2015 and 2016 NFL seasons. 
 
@@ -34,8 +32,9 @@ This project is looking to find factors surrounding an NFL game that effects pla
   
 
 ## Getting Started
-    1. The transforming and merging of orthonganl data are locted: [here](./Data-clean/Master_Dataset_2.ipynb). This will walk you through the cleaning process. Including where the data was obtained. 
-    2. Once the data is cleaned, the analysis folder contains the linear regression code. I looked at p-values of the 
+[start]
+    - The transforming and merging of orthonganal data are locted  . This will walk you through the cleaning process. Including where the data was obtained. 
+    -  Once the data is cleaned, the analysis folder contains the linear regression code. I looked at p-values of the 
         variables to understand what factors have the biggest impact on performance. 
 
 
