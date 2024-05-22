@@ -32,7 +32,7 @@ This project is looking to find factors surrounding an NFL game that effects pla
   
 
 ## Getting Started
-[start]
+[start](./Data-clean/Master_Dataset_2.ipynb)
     - The transforming and merging of orthonganal data are locted  . This will walk you through the cleaning process. Including where the data was obtained. 
     -  Once the data is cleaned, the analysis folder contains the linear regression code. I looked at p-values of the 
         variables to understand what factors have the biggest impact on performance. 
